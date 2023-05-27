@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/wall.jpg</file>
+        <file>images/ball.png</file>
+        <file>images/CharlesEast.png</file>
+        <file>images/CharlesEastBall.png</file>
+        <file>images/CharlesNorth.png</file>
+        <file>images/CharlesNorthBall.png</file>
+        <file>images/CharlesSouth.png</file>
+        <file>images/CharlesSouthBall.png</file>
+        <file>images/CharlesWest.png</file>
+        <file>images/CharlesWestBall.png</file>
+        <file>images/emptyField.PNG</file>
+    </qresource>
+</RCC>
